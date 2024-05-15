@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "788994605748",
+    "project_id": "freebie-4bea8",
+    "storage_bucket": "freebie-4bea8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788994605748:android:11e8d3e556c855ea67cde1",
+        "android_client_info": {
+          "package_name": "com.example.freebie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAboZYxVyMKsewWYELqG3L_6UskmnrntWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
